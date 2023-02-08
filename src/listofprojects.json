@@ -24,7 +24,7 @@
             {"Render": "https://artworks-of-harvarduni.onrender.com/"},
             {"Github": "https://github.com/szabiv96/imageGallery.git"}
     ],
-        "summary": "A group project made with two of my fellow student. Fetching data from an API always seems like something unimaginable and a mistery. Diving through the poorly done documentation sometimes ends up with dissapointment. The key is to understand and memorize the protocol of fetching data and the code itself, what needs a lot of practices... but what makes someone a master of something if it is not practicing (?)"
+        "summary": "A group project made with two of my fellow students. Fetching data from an API always seems like something unimaginable and a mystery. Diving through the poorly done documentation sometimes ends up with disappointment. The key is to understand and memorize the protocol of fetching data and the code itself, which needs a lot of practice... but what makes someone a master of something if it is not practicing (?)"
     },
 
     {
@@ -38,7 +38,7 @@
             {"Render": "https://pizza-order-app-prototype.onrender.com/"},
             {"Github": "https://github.com/szabiv96/pizzaOrderPrototype.git"}
     ],
-        "summary": "Originally the Pizza Ordering Application was a group project during the course, but I decided to do it again for a better understanding of the communication between back- and front end. Prepearing the data for the server is a difficult task, but it is necessary to memorize for further projects."
+        "summary": "Originally the Pizza Ordering Application was a group project during the course, but I decided to do it again for a better understanding of the communication between back- and front end. Preparing the data for the server is a difficult task, but it is necessary to memorize for further projects."
     },
 
     {
@@ -52,7 +52,7 @@
             {"Render": "https://imagegalleryszabolcs.onrender.com/"},
             {"Github": "https://github.com/szabiv96/imageGallery.git"}
     ],
-        "summary": "This was my first successful and solo course project what I have done all by myself. I am very happy for this achievements, because I learnt so much of it. Building up a server side communication for a front-end developer is not priority, but it could be a valueable skill for the future. Understanding the image uploading functionality of Node was an important lesson."
+        "summary": "This was my first successful and solo course project that I have done all by myself. I am very happy about these achievements, because I learnt so much from them. Building up server side communication for a front-end developer is not a priority, but it could be a valuable skill for the future. Understanding the image uploading functionality of Node was an important lesson."
     }
 
 ]
