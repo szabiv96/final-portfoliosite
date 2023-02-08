@@ -1,25 +1,28 @@
-import logo from './logo.svg';
+import React, { useRef } from "react";
 import './App.css';
+import Navbar from './components/Navbar';
+import SlideShow from './components/SlideShow';
+import Introduction from "./components/Introduction";
+import Projects from "./components/Projects";
+import Contacts from "./components/Contacts";
 
-function App() {
+export default function App() {
+
+  const homeRef = useRef(null);
+  const introRef = useRef(null);
+  const recentRef = useRef(null);
+  const cvRef = useRef(null);
+  const projectsRef = useRef(null);
+  const contactRef = useRef(null);
+  
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar projectsRef={projectsRef} homeRef={homeRef} introRef={introRef} recentRef={recentRef} cvRef={cvRef} contactRef={contactRef} />
+      <Introduction homeRef={homeRef} introRef={introRef} />
+      <SlideShow recentRef={recentRef} />
+      <Projects projectsRef={projectsRef} cvRef={cvRef} />
+      <Contacts contactRef={contactRef} />
+    </>
   );
 }
-
-export default App;

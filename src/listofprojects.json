@@ -1,0 +1,58 @@
+[
+    {
+        "id": "4",
+        "name": "CuratorBOT",
+        "year": 2023,
+        "imgURL": "images/greY.png",
+        "month": "January - March",
+        "type": "React Three Fiber/Drei, Bootstrap",
+        "documentation": [
+                {"Figma": "https://www.figma.com/file/dTXWxF38M64tdAwwqGHcKh/3D-UI-Project-for-Exhibition?node-id=0%3A1&t=fl8vnhlXtlVURi5n-1"}
+        ],
+        "summary": "CuratorBOT is one of my own full scale project, and an opportunity to practice creating a service or a product. I am making from sketch to the final product and it is really interesting to realize how much designing needs to do for the actual coding, because without it I will not be as effective as I want." 
+    },
+
+    {
+        "id": "3",
+        "name": "Image Gallery using Harvard API",
+        "year": 2022,
+        "imgURL": "images/18832255.jpg",
+        "month": "December",
+        "type": "ReactJS, Bootstrap",
+        "documentation": [
+            {"Figma": "https://www.figma.com/file/J5ZMMEY6U8eMWiMaBXhgT9/Artwork-webpage-planning?node-id=0%3A1&t=fl8vnhlXtlVURi5n-1"},
+            {"Render": "https://artworks-of-harvarduni.onrender.com/"},
+            {"Github": "https://github.com/szabiv96/imageGallery.git"}
+    ],
+        "summary": "A group project made with two of my fellow student. Fetching data from an API always seems like something unimaginable and a mistery. Diving through the poorly done documentation sometimes ends up with dissapointment. The key is to understand and memorize the protocol of fetching data and the code itself, what needs a lot of practices... but what makes someone a master of something if it is not practicing (?)"
+    },
+
+    {
+        "id": "2",
+        "name": "Pizza Order App Prototype",
+        "year": 2022,
+        "imgURL": "images/pepperoni-pizza-abob-t.jpg.webp",
+        "month": "November",
+        "type": "NodeJS, VanillaJS, Html & Css",
+        "documentation": [
+            {"Render": "https://pizza-order-app-prototype.onrender.com/"},
+            {"Github": "https://github.com/szabiv96/pizzaOrderPrototype.git"}
+    ],
+        "summary": "Originally the Pizza Ordering Application was a group project during the course, but I decided to do it again for a better understanding of the communication between back- and front end. Prepearing the data for the server is a difficult task, but it is necessary to memorize for further projects."
+    },
+
+    {
+        "id": "1",
+        "name": "Image Gallery",
+        "year": 2022,
+        "imgURL": "images/20201128per3.jpg",
+        "month": "November",
+        "type": "NodeJS, Javascript, Html & CSS, Bootstrap",
+        "documentation": [
+            {"Render": "https://imagegalleryszabolcs.onrender.com/"},
+            {"Github": "https://github.com/szabiv96/imageGallery.git"}
+    ],
+        "summary": "This was my first successful and solo course project what I have done all by myself. I am very happy for this achievements, because I learnt so much of it. Building up a server side communication for a front-end developer is not priority, but it could be a valueable skill for the future. Understanding the image uploading functionality of Node was an important lesson."
+    }
+
+]
