@@ -10,7 +10,7 @@ export default function Projects({ projectsRef, cvRef }) {
     return (
         <>
             <h4 ref={cvRef}>Are you interested in my work ?</h4>
-            <h1>DOWNLOAD MY <a href="/">CV</a>!</h1>
+            <h1>DOWNLOAD MY <a href="images/VargaSzabolcsLajos.pdf" target="_blank" rel="noreferrer">CV</a>!</h1>
             <h3>or ... Read about my projects !</h3>
 
             <Container fluid ref={projectsRef} className='projects d-flex flex-row justify-content-around flex-wrap g-1 p-5'>

@@ -3,7 +3,7 @@
         "id": "4",
         "name": "CuratorBOT",
         "year": 2023,
-        "imgURL": "images/greY.png",
+        "imgURL": "images/curatorbot.jpg",
         "month": "January - March",
         "type": "React Three Fiber/Drei, Bootstrap",
         "documentation": [
